@@ -1,4 +1,10 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+## Publications
+
+- Distribution Stability: A Better Metric for Deployability of End-to-End Systems
+- Subsection: A Toolkit for Detecting and Correcting Situational Policy Failures
+- Hemispheres: Dual Systems for Online and Self-supervised Learning
+
+<!-- <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -50,4 +56,4 @@
 
 </ol>
 </div>
-
+ -->
